@@ -11,7 +11,7 @@ Green = mp_drawing.DrawingSpec(color = (0,255,0), thickness= 2, circle_radius= 4
 Blue = mp_drawing.DrawingSpec(color = (255,0,0), thickness= 2, circle_radius= 4)
 Red = mp_drawing.DrawingSpec(color = (0,0,255), thickness= 1, circle_radius= 2)
 
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture('assets/Walk.mp4')
 #address = "http://192.168.1.2:8080/video"
 #cap.open(address)
 
