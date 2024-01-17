@@ -9,3 +9,4 @@ Basic Python file for POSE & FACE DETECTION using mediapipe & OpenCV.
 
 
 ### FrameRate Counter helps you analyze performance.
+Major Updates coming
